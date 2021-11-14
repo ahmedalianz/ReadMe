@@ -21,7 +21,7 @@
 
 
 <h2 align="center">
-  Here are some technologies I use at work:
+  Here are some technologies I use:
 </h2>
 <p align="center">
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
@@ -44,7 +44,7 @@
 <br/>
 <p align="center">
  <a href="mailto:ahmedalian400@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-   <a href="https://github.com/ahmedalianz"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="https://github.com/ahmedalianz"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/ahmedalian/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
 
