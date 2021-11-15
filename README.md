@@ -34,6 +34,9 @@
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
 </p>
 
+<h2 align="center">
+  Contact me:
+</h2>
 
 <br/>
 <p align="center">
