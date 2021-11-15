@@ -1,8 +1,6 @@
 <h1 align="center"> Hey 👋🏽, I'm Ahmed Alian </h1>
-
-<br/>
 <h2 align="center">
-    I create user experiences that are:
+    I'm a web developer and my sites are:
 </h2>
 <img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 
@@ -14,10 +12,6 @@
 - **Load blazing fast 🚀**
 - **SEO Optimized 🔍**
 - **Crafted with pixel-perfect code ✨**
-
-
-<br/>
-<br/>
 
 
 <h2 align="center">
