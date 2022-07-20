@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Gotcha](https://ecomerce-angular.vercel.app/)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://ahmedalian2.vercel.app/projects](https://ahmedalian2.vercel.app/projects)
 
