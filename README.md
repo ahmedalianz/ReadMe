@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Alian</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate mobile / frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Gotcha](https://ecomerce-angular.vercel.app/)
 
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available at [https://ahmedalian2.vercel.app/projects](https://ahmedalian2.vercel.app/projects)
-
-- 💬 Ask me about **React, angular, node js**
+- 💬 Ask me about ** React , React Nattive **
 
 - 📫 How to reach me **ahmedalian400@gmail.com**
 
-- 📄 Know about my experiences [https://ahmedalian2.vercel.app/projects](https://ahmedalian2.vercel.app/projects)
+- 📄 Know about my experiences [https://ahmedalian3.vercel.app/projects](https://ahmedalian3.vercel.app/projects)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
