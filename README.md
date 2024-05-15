@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Alian</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Afify</h1>
 <h3 align="center">A passionate mobile / frontend developer from Egypt</h3>
 
 
